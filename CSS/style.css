@@ -1,0 +1,42 @@
+.text-box h3:nth-child(1){
+    color: pink;
+}
+#greycol{
+    color: grey;
+}
+.text-box > div > p{
+    color: red;
+}
+.text-box p:nth-child(7){
+    color: green;
+}
+.text-box p.yellow{
+    color: yellow;
+}
+mai{
+    background-color: var(--main-color);
+}
+.container{
+    padding: 8px;
+    cursor: alias;
+    gap: 5px;
+}
+.monday.lesson{
+    color: chocolate;
+}
+.tuesday.lesson{
+    color: blue;
+}
+.wednesday.lesson{
+    color: chartreuse;
+}
+.thursday.lesson{
+    color: darkmagenta;
+}
+.friday.lesson{
+    color: darkseagreen;
+}
+.monday.lesson{
+    background: orange;
+    
+}
